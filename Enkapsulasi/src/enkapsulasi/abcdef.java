@@ -37,7 +37,7 @@ public class abcdef {
         System.out.println("Nilai e adalah: " + nilaiE);
         
         double nilaiF = equation.getF();
-        System.out.println("Nilai a adalah: " + nilaiF);
+        System.out.println("Nilai f adalah: " + nilaiF);
         
         if (equation.isSolvable()) {
             System.out.println("x adalah " + equation.getX() + " dan y adalah " + equation.getY());
